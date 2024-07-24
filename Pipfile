@@ -8,6 +8,7 @@ pandas = "*"
 matplotlib = "*"
 scipy = "*"
 sweetviz = "*"
+numpy = "==1.26.4"
 
 [dev-packages]
 
